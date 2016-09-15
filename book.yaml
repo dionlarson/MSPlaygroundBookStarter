@@ -1,0 +1,12 @@
+name: Make School Playground
+identifier: com.makeschool.sample
+resources: assets # Optional
+cover: cover.jpg # Optional
+deployment_target: ios10.0 # Optional
+imports: # Optional, defaults to UIKit
+ - SpriteKit
+chapters:
+ - Chapter 1
+ - Chapter 2
+glossary:
+ Make School: A school that teaches how to design, code, and ship products.
