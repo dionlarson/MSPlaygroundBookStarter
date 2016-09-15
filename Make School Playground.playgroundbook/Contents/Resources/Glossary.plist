@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Make School</key>
+		<dict>
+			<key>Definition</key>
+			<string>A school that teaches how to design, code, and ship products.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>PageReference</key>
+				<string>Chapter%201/My%20First%20Page</string>
+				<key>Title</key>
+				<string>My First Page</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
